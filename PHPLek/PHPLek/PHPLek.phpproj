@@ -19,4 +19,7 @@
   <ItemGroup>
     <Compile Include="index.php" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="HtmlTest.html" />
+  </ItemGroup>
 </Project>

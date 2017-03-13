@@ -12,6 +12,7 @@
         <?php
 
         echo utf8_encode("Detta är ett test123!");
+        echo utf8_encode("Marcus Karlsson #4");
 
         ?>
 
